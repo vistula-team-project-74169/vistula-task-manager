@@ -16,10 +16,12 @@ A simple Task Manager web application built for **Practical Assignment 1 – Tas
 
 ## Team collaboration (Pull Requests)
 
+Partner: student **73997** – repository https://github.com/Grojob73997/vistula-task-manager
+
 | Direction | Pull Request |
 |---|---|
-| Partner's PR merged into **this** repository | _PR_LINK_INCOMING (to be added after merge)_ |
-| **My** PR merged into partner's repository | _PR_LINK_OUTGOING (to be added after merge)_ |
+| Partner's PR merged into **this** repository (contributor 73997) | https://github.com/vistula-team-project-74169/vistula-task-manager/pull/1 |
+| **My** PR into partner's repository (contributor 74169) | https://github.com/Grojob73997/vistula-task-manager/pull/1 |
 
 ## Features
 
